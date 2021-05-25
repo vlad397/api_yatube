@@ -1,2 +1,2 @@
 # api_yatube
-api_yatube
+CRUD для YaTube
